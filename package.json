@@ -1,0 +1,23 @@
+{
+  "name": "stepsintodevops",
+  "version": "1.0.0",
+  "description": "NSBM FOSS Community - Steps Into DevOps Session",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piumsudhara/StepsIntoDevOps.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piumsudhara/StepsIntoDevOps/issues"
+  },
+  "homepage": "https://github.com/piumsudhara/StepsIntoDevOps#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
